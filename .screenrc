@@ -1,0 +1,12 @@
+sessionname lookuptest
+screen -t lookuptest
+chdir data
+screen -t data
+chdir ../result
+screen -t result 
+chdir ../src
+screen -t src
+chdir ..
+screen -t man
+screen -t console
+screen -t root
