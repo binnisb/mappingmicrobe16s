@@ -25,3 +25,15 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+# data files
+samind/
+bwa_index/
+alignments/
+rdp_*.fa
+rdp_*.gen
+clostri*.fasta*
+
+firmicutes*
+blast.out*
